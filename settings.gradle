@@ -1,0 +1,6 @@
+rootProject.name='DrawClass'
+include ':app'
+include ':drawclasstext'
+include ':drawgeometrictransformation'
+include ':draworder'
+include ':drawviewanimal'
